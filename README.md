@@ -25,7 +25,7 @@ const me = {
             python: ["Django"],
             php: ["code igniter"]
         },
-        devOps: ["AWS", "Docker🐳", "firebase", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "firebase", "Nginx". "Heroku"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "Web RTC", "Android Library AAR"]
     },
