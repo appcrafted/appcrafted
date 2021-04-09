@@ -27,7 +27,7 @@ const me = {
         },
         devOps: ["AWS", "Docker🐳", "firebase", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "Web RTC", Android Library AAR]
+        misc: ["Firebase", "Socket.IO", "Web RTC", "Android Library AAR"]
     },
     architecture: ["Serverless Architecture", "Android applications", "Single page applications"],
     currentFocus: "MERN stack & Django Backend",
